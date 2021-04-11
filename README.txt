@@ -1,1 +1,1 @@
-Commit HTML, CSS, JAVAscript for project
+Commit HTML, CSS, JAVAscript for project by pushing it to remote repositary
